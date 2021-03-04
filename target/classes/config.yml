@@ -1,0 +1,15 @@
+#초 단위
+playTime: 300
+#초 단위
+votingTime: 100
+number of murders: 1
+maxPlayers: 10
+number of missions: 3
+#초 단위
+murderCooltime: 60
+spawn:
+  world: world
+  x: 0
+  y: 0
+  z: 0
+

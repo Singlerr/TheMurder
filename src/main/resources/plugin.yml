@@ -1,0 +1,7 @@
+name: TheMurder
+main: io.github.singlerr.TheMurder
+version: 1.0
+commands:
+  dm:
+  join:
+  leave:
